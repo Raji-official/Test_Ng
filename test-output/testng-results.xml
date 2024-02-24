@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-16T08:57:17 IST" name="Default suite" finished-at="2024-02-16T08:57:17 IST" duration-ms="92">
+    <groups>
+    </groups>
+    <test started-at="2024-02-16T08:57:17 IST" name="Default test" finished-at="2024-02-16T08:57:17 IST" duration-ms="92">
+      <class name="com.testng.project.Timeout">
+        <test-method signature="Browser_launch()[pri:0, instance:com.testng.project.Timeout@6babf3bf]" started-at="2024-02-16T08:57:17 IST" name="Browser_launch" finished-at="2024-02-16T08:57:17 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_launch -->
+        <test-method signature="login()[pri:0, instance:com.testng.project.Timeout@6babf3bf]" started-at="2024-02-16T08:57:17 IST" name="login" finished-at="2024-02-16T08:57:17 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="orderconfirm()[pri:0, instance:com.testng.project.Timeout@6babf3bf]" started-at="2024-02-16T08:57:17 IST" name="orderconfirm" finished-at="2024-02-16T08:57:17 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderconfirm -->
+        <test-method signature="searchproduct()[pri:0, instance:com.testng.project.Timeout@6babf3bf]" started-at="2024-02-16T08:57:17 IST" name="searchproduct" finished-at="2024-02-16T08:57:17 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchproduct -->
+      </class> <!-- com.testng.project.Timeout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
